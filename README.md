@@ -8,7 +8,8 @@ Sistema simples de gerenciamento de tarefas em Python.
 
 ## Instalação
 ```bash
-pip install -r requirements.txt
+$env:PYTHONPATH = (Get-Location).Path
+python -m pytest -v
 ```
 
 ## Testes
