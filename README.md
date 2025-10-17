@@ -34,3 +34,7 @@ tests/
 requirements.txt
 README.md
 ```
+
+# Testes feitos
+
+<img width="865" height="443" alt="image" src="https://github.com/user-attachments/assets/c9cbd8fc-52c7-4d73-899b-b38617cf41c1" />
